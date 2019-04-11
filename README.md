@@ -1,6 +1,8 @@
-# 개인 Profile Page 만들기
+개인 Profile Page 만들기
+=====================
 
-## 목적
+목적
+------
 
 ### 1. 포트폴리오 생성
 
@@ -13,10 +15,11 @@
 
 - 자바 스크립트
 - 부트스트랩
-* 참고 사이트 - https://startbootstrap.com/themes/landing-pages/
+  - 참고 사이트 - https://startbootstrap.com/themes/landing-pages/
 - AWS
 
-### 3. 이 페이지에는 어떤 기능이 있는가?
+이 페이지에는 어떤 기능이 있는가?
+--------
 
 - 한개의 페이지로 이루어진 프로필 페이지
 - 메일 전송
